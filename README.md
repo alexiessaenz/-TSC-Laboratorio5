@@ -1,4 +1,4 @@
-# Laboratorio 4
+# Laboratorio 5
 Técnicas de Simulación en Computadoras: Quinta práctica de laboratorio 
 
 ## Contenido
