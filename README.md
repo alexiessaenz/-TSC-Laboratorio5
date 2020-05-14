@@ -21,5 +21,5 @@ Consiste en 3 etapas:
 Análisis y Visualización de la Simulación
 
 <hr>
-<p align="center">Para servirles, <strong>Equipo de Instructores</strong> </p>
+<p align="center">Para servirles, <strong>Equipo de Instructores</strong></p>
 
